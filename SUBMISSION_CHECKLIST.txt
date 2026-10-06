@@ -1,0 +1,8 @@
+BEFORE SUBMISSION
+[ ] Install R and RStudio; capture installation screenshots.
+[ ] Create TechnicalAnalysis repository; capture genuine account/repository evidence.
+[ ] Run setup, checks and main analysis; resolve every download failure.
+[ ] Add output folder to Assignment2 in the repository.
+[ ] Insert screenshots and actual statistics/charts into the report.
+[ ] Complete student ID, instructor, date and GitHub URL on the cover.
+[ ] Upload final report and code; verify repository link works for instructor.
